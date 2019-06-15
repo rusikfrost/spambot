@@ -1,8 +1,8 @@
 const needle = require('needle');
-const this_token = ('35e2d4fda49f8b2696fe5f7e8436ca7833b2e1e28d92ca53232e5a393a21cbe1255fee648c64540fb466b');
-const messages = ["ЫЫы", "Приятного аппетита", "АаАААААаАААААаааААААААААА---- пчхи!!!"];
+const this_token = ('');
+const messages = ["", "", ""];
 const prikrep_media = ("");
-const group_for_get_users = ("73260851");
+const group_for_get_users = ("");
 
 var str = prikrep_media;
 var n = str.lastIndexOf('/');
@@ -65,6 +65,3 @@ var roffset = ( randomInteger(500, 5000));
 
 
 
-
-
-//98af498159b7f454201334cbfb8215a5ec421882160739d9b6e5d1c315a45a3f403700334e21fd1ff0ced
